@@ -38,7 +38,8 @@ This project uses descriptive analytics and visual exploration to identify trend
   - `matplotlib`, `seaborn` for visualization  
 
 - **EDA Techniques:**  
-  - Univariate distributions (histograms, boxplots, countplots)  
+  - Univariate analysis (histograms, boxplots, countplots)
+  - Multivariate analysis (correlation matrix, boxplots)  
   - Cuisine and restaurant-level demand analysis  
   - Customer frequency analysis  
   - Delivery performance by weekday vs. weekend  
